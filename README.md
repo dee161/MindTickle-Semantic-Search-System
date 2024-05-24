@@ -26,7 +26,7 @@ This project implements a web application that performs semantic search on case 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/mindtickle-semantic-search.git
+    git clone https://github.com/dee161/MindTickle-Semantic-Search-System
     cd mindtickle-semantic-search
     ```
 
